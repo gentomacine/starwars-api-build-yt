@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useState } from "react";
 import { createGlobalStyle } from "styled-components";
 import Footer from "../components/Footer";
