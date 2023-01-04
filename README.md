@@ -34,7 +34,7 @@ Screenshots
 
 ### Related Resources
 
-https://swapi.dev/documentation
+https://swapi.dev/documentation <br>
 https://nextjs.org/docs
 
 ## Troubleshooting
