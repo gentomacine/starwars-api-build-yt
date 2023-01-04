@@ -8,9 +8,13 @@ To install and run this app on your own machine, follow these steps:
 Clone the repository to your local machine:
 Copy code
 git clone https://github.com/gentomacine/starwars-api-build.git
+
 Navigate to the project directory:
+
 Copy code
+
 cd starwars-api-build
+
 Install the required dependencies:
 Copy code
 npm install
@@ -30,12 +34,17 @@ Screenshots
 
 ### Related Resources
 
-Star Wars API documentation
-Next.js documentation
-Troubleshooting
+https://swapi.dev/documentation
+https://nextjs.org/docs
+
+## Troubleshooting
+
 If you encounter any issues while running the app, try the following:
 
 Make sure you have installed all required dependencies (listed in the package.json file)
+
 Check the console for error messages
+
 Make sure you have correctly set up the .env file with the required environment variables
+
 If you are unable to connect to the API, check if there are any network issues or if the API is experiencing downtime.
