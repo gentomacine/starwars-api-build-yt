@@ -2,7 +2,8 @@
 
 This is a Next.js app that allows users to view and search for characters, films, and species from the Star Wars universe. The app is built using the Star Wars API and is deployed on Vercel. You can access the live app at the following URL: https://starwars-api-build-yt-psi.vercel.app/
 
-Installation
+## Installation
+
 To install and run this app on your own machine, follow these steps:
 
 Clone the repository to your local machine:
@@ -29,8 +30,10 @@ The app will now be running on http://localhost:3000.
 View a list of all Star Wars characters, films, and species
 Search for specific characters, films, or species using the search bar
 Click on a character, film, or species to view more details
-Screenshots
-[Insert screenshots or GIFs of your app here]
+
+## Screenshots
+
+![](../../../../../C:/Users/user/Desktop/startwar%20sh.png)
 
 ### Related Resources
 
