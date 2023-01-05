@@ -33,7 +33,7 @@ Click on a character, film, or species to view more details
 
 ## Screenshots
 
-![](../../../../../C:/Users/user/Desktop/startwar%20sh.png)
+<img src = "../../../../../C:/Users/user/Desktop/startwar%20sh.png" alt=""/>
 
 ### Related Resources
 
